@@ -11,6 +11,7 @@ I'm Ashlesh - a 14 year old passionate about a lot of things! Python, HTML, CSS 
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U092UGQGHHP&theme=catppuccin_light">
     </picture>
 </a>
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ## More about me!
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; height: 100vh;">
