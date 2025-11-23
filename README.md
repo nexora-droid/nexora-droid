@@ -19,6 +19,7 @@ One of my biggest projects yet is a full-stack web application I'm building with
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-Intermediate-%23000000?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399&color=%23000000">
 </div>
 Check out my fav project:
+
 <br> ![Static Badge](https://img.shields.io/badge/NASA--Admin--CLI%20-%20Repo%20-%20%23000000?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%235D90E9&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fnexora-droid%2FNASA-Admin-CLI%2Fblob%2Fmain%2FREADME.md)
 
 ## README.md Updated: 23 November 4:51pm 🕞 Singapore Time
